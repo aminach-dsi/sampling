@@ -16,30 +16,35 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `1
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The purpose of this survey is to understand the factors contributing to the high turnover rate among entry- and lower-level employees at the company.
+
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target population: current employees who have worked in entry- and lower-level positions across various departments within the company.
+Sampling Frame: all employees who have been in entry- or lower-level positions within the last 2 years.
+Sampling units: individual employees within the target population.
+Observational units: individual employees who are being surveyed.
+My sampling strategy will be a stratified random sampling to ensure that employees from different departments and roles are represented in the survey. This will help to identify department-specific issues and common factors across all entry-level positions.
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. How long have you been working at the company?
+2. What is your current position?
+3. If you have considered leaving, what were the main reasons? 
+4. How would you rate the support you receive from your manager or supervisor?
+5. How well do you feel your work-life balance is supported by the company?
+6. What changes would most improve your job satisfaction at the company?
+7. Do you feel that there are sufficient opportunities for career growth and advancement within the company?
+8. Do you feel adequately recognized and rewarded for your contributions at work?
+9. How satisfied are you with your compensation and benefits package?
+10. How would you rate your relationship with your colleagues and teammates?
 ```
 
 ## Rubric
