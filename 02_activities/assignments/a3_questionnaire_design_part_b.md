@@ -13,17 +13,18 @@
     ```
     **Revised Survey Questions:**
 
-	- I would add a consent Statement to ensure compliance with ethical guidelines and fosters trust among respondents: 	"Participation in this survey is voluntary, and your responses will remain confidential. By continuing, you consent 	to participate."
-	- What age range do you fall into? (Options: 18-24, 25-34, 35-44, 45+), Add Demographic question as demographic 	diversity provides deeper insights into potential patterns and disparities.
-	- How long have you been working at the company? (Options: <1 year, 1-2 years, >2 years) : increase the survey 		quality using Closed-ended question.
+	- I would add a consent Statement to ensure compliance with ethical guidelines and fosters trust among respondents:
+    "Participation in this survey is voluntary, and your responses will remain confidential. By continuing, you consent to participate."
+	- What age range do you fall into? (Options: 18-24, 25-34, 35-44, 45+), Add Demographic question as demographic diversity provides deeper insights into potential patterns and disparities.
+	- How long have you been working at the company? (Options: <1 year, 1-2 years, >2 years) : increase the survey quality using Closed-ended question.
 	- What is your current position or role in the company? avoid ambiguity by adding "in the company"
 	- If you have considered leaving, what were the main reasons? Multiple-choice with "Other" as an open-ended option.
-	- On a scale of 1 to 5 (1 = Very poor, 5 = Excellent), how would you rate the support you receive from your manager 	or supervisor? Added a numeric scale to standardize responses, making the data easier to analyze quantitatively.
-	- To what extent does the company support your work-life balance? (Scale: Not at all, Somewhat, Completely)? 		Adjusted wording to make questions more neutral and less leading.
-	- Can you describe any specific challenges you face in achieving work-life balance? Add a follow up question to 	capture qualitative feedback.
-	- Do you feel there are sufficient opportunities for career growth within the company? (Yes/No, with space for 		comments)
-	- How satisfied are you with your compensation and benefits package? (Scale: Very dissatisfied to Very satisfied), 	combined two questions to reduce redundancy and keep the survey concise.
-	- On a scale of 1 to 5 (1 = Very poor, 5 = Excellent), how would you rate your relationship with your colleagues and 	teammates? add a scale for more clarity.
+	- On a scale of 1 to 5 (1 = Very poor, 5 = Excellent), how would you rate the support you receive from your manager or supervisor? Added a numeric scale to standardize responses, making the data easier to analyze quantitatively.
+	- To what extent does the company support your work-life balance? (Scale: Not at all, Somewhat, Completely)? Adjusted wording to make questions more neutral and less leading.
+	- Can you describe any specific challenges you face in achieving work-life balance? Add a follow up question to capture qualitative feedback.
+	- Do you feel there are sufficient opportunities for career growth within the company? (Yes/No, with space for comments)
+	- How satisfied are you with your compensation and benefits package? (Scale: Very dissatisfied to Very satisfied), combined two questions to reduce redundancy and keep the survey concise.
+	- On a scale of 1 to 5 (1 = Very poor, 5 = Excellent), how would you rate your relationship with your colleagues and teammates? add a scale for more clarity.
 
     ```
 
